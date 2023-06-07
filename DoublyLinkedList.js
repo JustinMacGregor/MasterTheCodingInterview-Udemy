@@ -8,7 +8,7 @@ class LinkedListNode {
     }
 }
 
-// Define a LinkedList class to manage and perform operations on the doubly linked list
+// Define a SinglyLinkedList class to manage and perform operations on the doubly linked list
 class LinkedList {
 // Constructor initializes the list with one node using the given value
     constructor(firstNodeValue) {
